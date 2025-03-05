@@ -13,7 +13,7 @@ export default function Home() {
       <Navbar />
       <NewsPage />
       <TelegraphNews />
-      <GaurdianNews />
+      {/* <GaurdianNews /> */}
       <DailyMaleNews />
       <IndependentNews />
       <Footer />
